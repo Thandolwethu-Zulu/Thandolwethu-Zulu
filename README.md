@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Thandolwethu Zulu 👋
 
-<!--
-**Thandolwethu-Zulu/Thandolwethu-Zulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Professional | 📊 Data Analytics | 🔐 Cybersecurity | ☁️ Cloud
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an IT professional from South Africa with an interest in
+cloud computing, data analytics, networking and cybersecurity.
+
+I enjoy building practical projects that allow me to develop
+my technical skills and solve real-world problems.
+
+## 🛠️ Skills
+
+- IT Support & Troubleshooting
+- Microsoft 365
+- Microsoft Azure
+- Networking
+- SQL
+- Data Analytics
+- Cybersecurity
+- Git & GitHub
+
+## 📜 Certifications
+
+- Microsoft Certified: Endpoint Administrator Associate
+- Microsoft Certified: Microsoft 365 Administrator Associate
+- CompTIA CySA+
+
+## 📚 Currently Learning
+
+- Data Analytics
+- SQL
+- Cisco Networking
+- Microsoft Azure
+- Cybersecurity
+
+## 🚀 Projects
+
+Coming soon...
+
+## 📫 Connect With Me
+
+- LinkedIn: Add your LinkedIn here
+- Email: Add your professional email here
