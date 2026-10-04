@@ -41,5 +41,4 @@ Coming soon...
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn here
-- Email: Add your professional email here
+- Email: H_thandolwethu@icloud.com
